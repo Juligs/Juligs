@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Juliana Gómez</h1>
-<h3 align="center">I am deeply passionate about the digital realm, programming, science, and video games. After earning my degree in geology, I chose to shift my focus to pursue my lifelong dream of becoming a web developer. This journey has been filled with hard work and a range of emotions, but the satisfaction of seeing my achievements and growth through my efforts drives me forward. I am eager to face new opportunities and challenges that will further develop my skills and grow as a person. I approach everything with a positive attitude and a strong desire to learn.</h3>
+<h1 align="center">Hi 👋, I'm Juliana Gómez , web Developer </h1>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/juliana-gomez-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juliana-gomez-s" height="30" width="40" /></a>
 </p>
