@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juliana Gómez , web Developer </h1>
 <h3 align="center"> Welcome to my profile. You can see my personal projects here ⬇️.
-  <lu> <a href="https://artsy-feeling.netlify.app/feed"> ArtsFeel </a></lu>
+
 </h3>
+<h3 align="center">
+ <li> <a href="https://artsy-feeling.netlify.app/feed"> ArtsFeel </a></li>
+  </h3>
 
 
 <p align="left">
