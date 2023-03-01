@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juliana Gómez , web Developer </h1>
-<h3 align="center"> Welcome to my profile. You can see my personal projects here ⬇️.
+<h3 align="center"> Welcome to my profile. </h3>
+ <p> You can see my personal projects
+  <a href="https://github.com/Juligs/Juligs/tree/main/PersonalProjects">
+  here ⬅
+  </a> </p>
 
-</h3>
-<h3 align="center">
- <li> <a href="https://github.com/Juligs/Juligs/tree/main/PersonalProjects"> Projects </a></li>
-  </h3>
 
 
 <p align="left">
