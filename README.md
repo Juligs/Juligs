@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juliana Gómez , web Developer </h1>
-<h3 align="center"> Welcome to my profile. You can see my personal projects here.
+<h3 align="center"> Welcome to my profile. You can see my personal projects here ⬇️.
   <lu> </lu>
 </h3>
 
