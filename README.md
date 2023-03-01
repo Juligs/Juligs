@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juliana Gómez , web Developer </h1>
 <h3 align="center"> Welcome to my profile. </h3>
- <p> You can see my 
+ <p> 🔹  You can see my 
   <a href="https://github.com/Juligs/Juligs/tree/main/PersonalProjects">
  personal projects here.
   </a> </p>
@@ -8,7 +8,7 @@
   <hr>
 
 
-
+<h3 aling ="center" > Contact me </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juliana-gomez-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juliana-gomez-s" height="30" width="40" /></a>
 </p>
