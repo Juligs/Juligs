@@ -4,6 +4,8 @@
   <a href="https://github.com/Juligs/Juligs/tree/main/PersonalProjects">
   here ⬅
   </a> </p>
+  
+  <hr>
 
 
 
