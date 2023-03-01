@@ -22,6 +22,9 @@
  <p/>
 <p align="center"> An infinite platform game inspired by the famous "Doodle Jump" game. Developed in JavaScript using Canvas, CSS and bootstrap.</p>
 <hr>
+<h2> Coming soon 👩‍💻 👩‍💻 🏗️ </h2> 
+
+<p align="center"> My teammate Catalina Sabogal and I are currently building and designing an e-commerce platform aimed at businesses looking to buy wholesale products of all types. Our platform, named Appura, is being developed using TypeScript, HTML, JavaScript, and React, and is being designed using CSS and Tailwind CSS. </p>
 
  
 
