@@ -3,7 +3,7 @@
 
 </h3>
 <h3 align="center">
- <li> <a href="https://artsy-feeling.netlify.app/feed"> ArtsFeel </a></li>
+ <li> <a href="https://github.com/Juligs/Juligs/tree/main/PersonalProjects"> Projects </a></li>
   </h3>
 
 
