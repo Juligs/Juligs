@@ -11,7 +11,7 @@
 <h3 aling ="center" >🔹 Contact me </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juliana-gomez-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juliana-gomez-s" height="30" width="40" /></a>
-<a href="julicodes29@gmail.com"><img align="center" src="emaiil.png" height="30" widtg="40"/></a>
+<a href="mailto:julicodes29@gmail.com"><img align="center" src="emaiil.png" height="30" widtg="40"/></a>
 </p>
 
 <h3 align="left">🔹Languages and Tools:</h3>
