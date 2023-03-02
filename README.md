@@ -2,7 +2,7 @@
 <h2 align="center"> Welcome to my profile. </h2>
  <h3 align="center"> 🔹  You can see my 
   <a href="https://github.com/Juligs/Juligs/tree/main/PersonalProjects">
- personal projects here.
+ personal projects here👩‍💻.
   </a> </h3>
   
   <hr>
