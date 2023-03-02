@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juliana Gómez Web Developer
 </h1>
 
-<h2 align="center"> Welcome to my profile.
+<h2 align="center"> Welcome to my profile📎 
 <div >
 <img  src="logo.png" height="250" width="300"/>
 </div>
