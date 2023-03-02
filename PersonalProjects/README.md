@@ -1,5 +1,5 @@
-<h2 align="center">
- <a href="https://artsy-feeling.netlify.app/feed"> 🔹ArtsFeel </a></h2>
+<h1 align="center">
+ <a href="https://artsy-feeling.netlify.app/feed"> 🔹ArtsFeel </a></h1>
  <div align="center">
  <img src="gifart.gif" width="500" height="300"/>
  </div>
@@ -10,8 +10,8 @@
  <a align="center" href="https://github.com/Juligs/Af-Server"> 🔹Server repository </a>
  </div>
 <hr> 
-<h2 align= "center">
- <a href="https://nameless-frost-7189.fly.dev/"> 🔹PETTER </a> </h2>
+<h1 align= "center">
+ <a href="https://nameless-frost-7189.fly.dev/"> 🔹PETTER </a> </h1>
  <div align="center">
  <img src="petter.gif" width="500" height="300"/>
  </div>
@@ -22,8 +22,8 @@
  </div>
  
 <hr>
-<h2 align="center">
-<a href="https://csabogalortiz.github.io/GOMEZ-SABOGAL-GAME/"> 🔹Star Ninja </a></h2>
+<h1 align="center">
+<a href="https://csabogalortiz.github.io/GOMEZ-SABOGAL-GAME/"> 🔹Star Ninja </a></h1>
   <div align="center">
  <img src="starninja.gif" width="500" height="300"/>
  </div>
@@ -33,7 +33,7 @@
  <a align="center" href="https://github.com/Juligs/Juligs-NinjaStartGame"> 🔹Project repository  </a>
  </div>
 <hr>
-<h2 align="center"> Coming soon 👩‍💻 👩‍💻 🏗️ </h2> 
+<h1 align="center"> Coming soon 👩‍💻 👩‍💻 🏗️ </h1> 
 
 <p align="center"> My teammate Catalina Sabogal and I are currently building and designing an e-commerce platform aimed at businesses looking to buy wholesale products of all types. Our platform, named Appura, is being developed using TypeScript, HTML, JavaScript, and React, and is being designed using CSS and Tailwind CSS. </p>
  <div align="center">
