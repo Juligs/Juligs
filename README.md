@@ -26,7 +26,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/juliana-gomez-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juliana-gomez-s" height="35" width="45" /></a>
 <a href="mailto:julicodes29@gmail.com"><img align="center" src="emaill.png" height="50" widtg="60"/></a>
-<a href="https://instagram.com/s.julig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.julig" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">🔹Languages and Tools:</h3>
